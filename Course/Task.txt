@@ -1,0 +1,12 @@
+Modeliui naudokite savo pasirinktą dalykinę sritį. Jūsų darbas turėtų tenkintis šias sąlygas:
+
+    bendradarbiauja bent du veiklos procesai, tačiau vienas iš jų gali būti nedetalizuotas;
+    procese naudokite tarpinius įvykius, bent vienas iš jų turėtų būti įvykio paprocesis;
+    bent vienas iš proceso veiksmų turėtų būti paprocesis;
+    proceso komponentų pavadinimai turėtų turėti informatyvius pavadinimus pagal gerasias praktikas;
+    turėtų būti panaudotas bent vienas duomenų objektas;
+    modelis neturėtų grubiai pažeisti gerųjų modeliavimo praktikų.
+
+Su modeliu pateikite ir trumpą modelio aprašymą.
+
+Galite pateikti ir nevisiškai pabaigtus darbus, jei norėtumėte sulaukti pastabų ar rekomendacijų.
