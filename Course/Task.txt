@@ -1,4 +1,5 @@
-Modeliui naudokite savo pasirinktą dalykinę sritį. Jūsų darbas turėtų tenkintis šias sąlygas:
+Modeliui naudokite savo pasirinktą dalykinę sritį.
+Jūsų darbas turėtų tenkintis šias sąlygas:
 
     bendradarbiauja bent du veiklos procesai, tačiau vienas iš jų gali būti nedetalizuotas;
     procese naudokite tarpinius įvykius, bent vienas iš jų turėtų būti įvykio paprocesis;
